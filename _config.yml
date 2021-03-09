@@ -1,5 +1,5 @@
 title: CraigKraft
-author: kyle craig
+author: kyle
 description: Test website on Github
 
 defaults:
@@ -8,9 +8,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "default"
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
-      layout: "page"
+      layout: "default"
