@@ -1,3 +1,9 @@
 title: CraigKraft
 author: kyle
 description: Test website Pages/Jekyll
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
