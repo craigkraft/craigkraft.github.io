@@ -1,16 +1,3 @@
 title: CraigKraft
 author: kyle
 description: Test website on Github
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
-    values:
-      layout: "default"
