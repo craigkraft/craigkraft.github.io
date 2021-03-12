@@ -4,16 +4,18 @@ description: Test website Pages/Jekyll
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "" # all files
     values:
       layout: "default"
-source              : .
-destination         : ./_site
+source                : .
+destination           : ./_site
+layouts_dir           : _layouts
+includes_dir          : _includes
+##
 # collections_dir     : .
 # plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
-layouts_dir         : _layouts
 # data_dir            : _data
-includes_dir        : _includes
+##
 sass:
   sass_dir: _scss
 sass:
