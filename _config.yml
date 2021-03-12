@@ -1,23 +1,19 @@
 title: CraigKraft
 author: kyle
 description: Test website Pages/Jekyll
-#
 defaults:
   -
     scope:
       path: "" # all files
     values:
       layout: "default"
-#
 source                : .
 destination           : ./_site
 layouts_dir           : _layouts
 includes_dir          : _includes
-#
 # collections_dir     : .
 # plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
 # data_dir            : _data
-#
 sass:
   sass_dir: _scss
 sass:
