@@ -21,4 +21,4 @@ includes_dir          : _includes
 sass:
   sass_dir: _scss
 sass:
-  style: compressed
+  style: compact
