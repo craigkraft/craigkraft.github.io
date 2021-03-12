@@ -1,14 +1,14 @@
 title: CraigKraft
 author: kyle
 description: Test website Pages/Jekyll
-###
+#
 defaults:
   -
     scope:
       path: "" # all files
     values:
       layout: "default"
-###
+#
 source                : .
 destination           : ./_site
 layouts_dir           : _layouts
