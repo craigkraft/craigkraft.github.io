@@ -1,10 +1,11 @@
 ---
 ---
-
 {% include head.html %}
 {% include header.html %}
 {% include navigation.html %}
+<main>
 {{ content }}
+</main>
 <ul>
 {% for post in site.posts %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
