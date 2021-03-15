@@ -1,12 +1,15 @@
 ---
 ---
+
+<!DOCTYPE html>
+<html>
+  <body>
 {% include head.html %}
 {% include header.html %}
 {% include navigation.html %}
-<main>
+    <main>
 {{ content }}
-</main>
-<ul>{% for post in site.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
-</ul>
+    </main>
 {% include footer.html %}
+  </body>
+</html>
