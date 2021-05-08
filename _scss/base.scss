@@ -34,7 +34,7 @@ p {
 
 ul {list-style: none inside}
 ul li::before {
-  content: "* ";
+  content: "*| ";
   font-size: 5.55em;
 }
 li {padding: 0}
