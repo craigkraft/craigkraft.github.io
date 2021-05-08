@@ -3,16 +3,18 @@
 
 * {margin: 0; border: 1px solid red; padding: 0;
   box-sizing: border-box;
-  line-height: 1.33;
+  line-height: 1.22;
   }
 
 html, body {min-height: 100vh}
 
-body{}
+body{padding: .99em}
 
 nav{}
 
 div{}
+
+section{}
 
 h1, h2, h3, h4, h5, h6 {padding: .33em; font-family: 'Merriweather', serif;}
 
@@ -24,10 +26,12 @@ h5{font-size: 88%;}
 h6{font-size: 74%;}
 
 p {
-  padding: 1em;
+  padding: 0.99em;
   color: #070704;
   font-size: 222%;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+ul {}
+li {padding: 0.99em}
 
