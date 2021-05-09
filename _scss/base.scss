@@ -32,11 +32,15 @@ p {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
-ul {list-style: none inside}
+ul {
+  list-style: none inside
+}
+
 ul li::before {
   content: "~ ";
-  font-size: 5.55em;
+  font-size: 222%;
 }
+
 li {padding-left: 1em;
   padding-top: 0;
   padding-right: 0;
