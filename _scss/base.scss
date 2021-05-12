@@ -39,8 +39,7 @@ ul {
 }
 
 ul li::before {
-  content: "~ ";
-  font-size: 222%;
+  content: "+ ";
 }
 
 li {padding-left: 1em;
