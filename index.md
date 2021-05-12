@@ -13,6 +13,6 @@ A new paragraph can be short; like a few phrases.
 
 Others can be just slightly a little longer, but barely.
 
-The most important thing about filler text, is that you allow for paragraphs/sentences (content) of different length, style, and format. Let's test some line spacing with a few more lines. It's crucial to get the right mix between line-height between lines inside a paragraph and spacing between separate paragraphs. Font size of main content areas should be easily readable with good contrast between letter color and background.
+The most important thing about filler text, is that you allow for paragraphs/sentences (content) of different length, style, and format. Let's test some line spacing with a few more lines. It's crucial to get the right mix between line-height between lines inside a paragraph and spacing between separate paragraphs. Font size of main content areas should be easily readable with good contrast between letter-color and background-color.
 
 [About page](https://craigkraft.github.io/about)
