@@ -5,6 +5,8 @@ title: Home
 
 # Hi There! This is a heading lvl one.
 
+This is your homepage or index. Fill it with invaluable content.
+
 ## And a heading lvl two
 
 Just testing some things. Testing, texting, one two three. More filler text here, and some more. This is a paragraph that resides in main content area
