@@ -6,7 +6,7 @@
   font-family: 'Raleway', sans-serif;
   font-size: 1em;
   color: #403727;
-  }
+}
 
 html {
   min-height: 111vh;
@@ -32,6 +32,26 @@ a {
   text-decoration-line: underline;
   text-decoration-style: dotted;
   text-underline-offset: 0.11em;
+}
+
+a:link {
+  color: #F27B50;
+}
+
+a:visited {
+  color: #F27B50;
+}
+
+a:focus {
+  
+}
+
+a:hover {
+
+}
+
+a:active {
+
 }
 
 h1, h2, h3, h4, h5, h6 {
