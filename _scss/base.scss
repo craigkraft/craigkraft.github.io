@@ -9,14 +9,14 @@
   }
 
 html {
+  min-height: 111vh;
   background-color: #63A687;
 }
 
 body {
+  max-width: 55em;
   background-color: #F8FFE0;
   margin: 0 auto;
-  max-width: 55em;
-  min-height: 111vh;
 }
 
 body{padding: .99em}
