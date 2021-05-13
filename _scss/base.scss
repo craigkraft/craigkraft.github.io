@@ -22,11 +22,16 @@ body {
 
 body{padding: .99em}
 
-nav{}
-
 div{}
 
-section{}
+section {
+  padding: 0 0.99rem;
+}
+
+nav {
+  padding: 0.66rem 0;
+  font-weight: 700; 
+}
 
 a {
   outline: none;
