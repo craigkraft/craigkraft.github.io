@@ -5,7 +5,7 @@ title: Home
 
 # Hi There! This is a heading lvl one.
 
-This is your homepage or index. Fill it with invaluable content.
+This is your homepage or index. Fill it with invaluable content and portals to valueless resources.
 
 ## And a heading lvl two
 
