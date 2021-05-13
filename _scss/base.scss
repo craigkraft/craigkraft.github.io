@@ -57,7 +57,7 @@ a:active {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
-  padding: 0 .33rem;
+  padding: 0 0.99rem;
 }
 
 h1, h2, h3 {}
@@ -90,6 +90,7 @@ h6 {
 }
 
 p {
+  font-size: 1em;
   padding: 0.66em 0.99em;
   line-height: 1.52;
   font-weight: 400;
