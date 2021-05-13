@@ -33,12 +33,24 @@ section{}
 
 h1, h2, h3, h4, h5, h6 {padding: .33em; font-family: 'Merriweather', serif;}
 
-h1{font-size: 333%;}
-h2{font-size: 222%;}
-h3{font-size: 100%;}
-h4{font-size: 88%;}
-h5{font-size: 77%;}
-h6{font-size: 66%;}
+h1 {
+  font-size: 333%;
+  }
+h2 {
+  font-size: 222%;
+  }
+h3 {
+  font-size: 100%;
+}
+h4 {
+  font-size: 88%;
+}
+h5 {
+  font-size: 77%;
+}
+h6 {
+  font-size: 66%;
+}
 
 p {
   padding: 0.99em;
@@ -47,7 +59,7 @@ p {
 }
 
 ul {
-  list-style: none inside
+  list-style: none inside;
 }
 
 ul li::before {
