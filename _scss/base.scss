@@ -30,14 +30,14 @@ main, div, section, nav, h1, h2, h3, h4, h5, h6 {
   padding-right: 1rem;
 }
 
-nav {
+#navprime {
   padding-top: 1rem;
   padding-bottom: 2rem;
   font-weight: 700; 
 }
 
-nav ul {
-  
+#navprime ul {
+  list-style: none inside;
 }
 
 a {
@@ -113,15 +113,15 @@ p {
   font-weight: 400;
 }
 
-ul {
+main ul {
   list-style: none inside;
 }
 
-ul li::before {
+main ul li::before {
   content: "+ ";
 }
 
-li {
+main li {
   font-weight: 400;
   padding: 0 0 0 1rem;
 }
