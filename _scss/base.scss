@@ -13,11 +13,10 @@ html {
 }
 
 body {
+  margin: 0 auto;
   max-width: 55em;
   min-height: 111vh;
   background-color: #F8F8F8;
-  margin: 0 auto;
-  padding: 0.99rem 0;
 }
 
 div{}
@@ -61,7 +60,6 @@ a:active {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
-  padding: 0 0.99rem;
 }
 
 h1, h2, h3 {}
@@ -94,8 +92,8 @@ h6 {
 }
 
 p {
-  font-size: 1em;
-  padding: 0.66em 0.99em;
+  font-size: 1rem;
+  padding: 0.66rem 0.99rem;
   line-height: 1.52;
   font-weight: 400;
 }
@@ -110,6 +108,6 @@ ul li::before {
 
 li {
   font-weight: 400;
-  padding: 0 0 0 1em;
+  padding: 0 0 0 1rem;
 }
 
