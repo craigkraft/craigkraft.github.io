@@ -113,15 +113,15 @@ p {
   font-weight: 400;
 }
 
-main ul {
+.recentposts ul {
   list-style: none inside;
 }
 
-main ul li::before {
+.recentposts ul li::before {
   content: "+ ";
 }
 
-main ul li {
+.recentposts ul li {
   font-weight: 400;
   padding: 0 0 0 1rem;
 }
