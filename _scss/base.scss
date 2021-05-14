@@ -20,7 +20,10 @@ body {
   background-color: #FFFFFF;
 }
 
-div{}
+div, section, nav, h1, h2, h3, h4, h5, h6, p, ul {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
 section {
   padding: 0 0.99rem;
@@ -61,7 +64,6 @@ a:active {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
-  padding: 0 1rem;
 }
 
 h1, h2, h3 {}
@@ -72,10 +74,12 @@ h1 {
   font-size: 333%;
   font-weight: 600;
   }
+
 h2 {
   font-size: 222%;
   font-weight: 700;
   }
+
 h3 {
   font-size: 100%;
   font-weight: 800;
@@ -84,10 +88,12 @@ h4 {
   font-size: 88%;
   font-weight: 900;
 }
+
 h5 {
   font-size: 77%;
   font-weight: 900;
 }
+
 h6 {
   font-size: 66%;
   font-weight: 900;
@@ -95,7 +101,8 @@ h6 {
 
 p {
   font-size: 1rem;
-  padding: 0.66rem 0.99rem;
+  padding-top: 0.66rem
+  padding-bottom: 0.66rem;
   line-height: 1.52;
   font-weight: 400;
 }
