@@ -113,15 +113,15 @@ p {
   font-weight: 400;
 }
 
-main nav ul {
+main ul {
   list-style: none inside;
 }
 
-main nav ul li::before {
+main ul li::before {
   content: "+ ";
 }
 
-main nav ul li {
+main ul li {
   font-weight: 400;
   padding: 0 0 0 1rem;
 }
