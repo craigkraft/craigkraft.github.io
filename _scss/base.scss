@@ -30,14 +30,15 @@ main {
   padding-right: 1rem;
 }
 
-.navprime {
-  padding-top: 1rem;
-  padding-bottom: 2rem;
+.navprime ul {
+  list-style: none inside;
+  padding: 1rem 1rem 3rem 1rem;
   font-weight: 700; 
 }
 
-.navprime ul {
-  list-style: none inside;
+.navprime ul li {
+  display: inline;
+  padding: 1rem;
 }
 
 a {
