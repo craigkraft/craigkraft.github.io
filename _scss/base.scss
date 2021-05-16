@@ -10,7 +10,7 @@
 }
 
 html {
-  background-color: orange;
+  background-color: #F25C05;
 }
 
 body {
@@ -41,6 +41,7 @@ main {
   display: inline-block;
   margin: 0.33rem;
   padding: 0.22rem;
+  font-family: 'Oxygen Mono', monospace;
 }
 
 a {
@@ -73,7 +74,7 @@ a:active {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Oxygen Mono', serif;
+  font-family: 'Oxygen Mono', monospace;
   line-height: 1;
 }
 
