@@ -5,11 +5,11 @@ title: Home
 
 # Hi There! This is a heading lvl one
 
-This is your homepage or index. Fill it with invaluable content and portals to valueless resources.
+This is your homepage or index. Fill it with valueless content and portals to invaluable resources. We're using Comfortaa and Oxygen Mono for the fonts, redundancies would be sans-serif and monospace. We just need a nice handwritten font.
 
 ## And a heading lvl two
 
-Just testing some things. Testing, texting, one two three. More filler text here, and some more. This is a paragraph that resides in main content area.
+Just testing some things. Testing, texting, one two three. More filler text here, and some more. This is a paragraph that resides in main content area. Main content as in a page's purpose is fulfilled via the content in this main section.
 
 ### Heading of the third kind
 
@@ -23,6 +23,12 @@ The most important thing about filler text, is that you allow for paragraphs/sen
 
 ##### Almost the last heading
 
+Headings one through six decrease in descending order, while headings four through six remain similar sizes for future styling.
+
+I picked a monospace font for the headings. It only comes in one weight, 400, minimal.
+
 ###### The final heading of all time
+
+Well, we got here. Enough content to test all the headings at least. It's been a rough ride at times, but we got you here in one piece good buddy. How about a link?
 
 [About page](https://craigkraft.github.io/about)
