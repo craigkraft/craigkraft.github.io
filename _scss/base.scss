@@ -73,40 +73,39 @@ a:active {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway' serif;
   line-height: 1;
 }
 
-h1, h2, h3 {}
+h1, h2, h3 {
+  fomt-weight: 600;
+}
 
-h4, h5, h6 {}
+h4, h5, h6 {
+  fomt-weight: 400;
+}
 
 h1 {
   font-size: 333%;
-  font-weight: 600;
   }
 
 h2 {
   font-size: 222%;
-  font-weight: 700;
   }
 
 h3 {
   font-size: 100%;
-  font-weight: 800;
 }
 h4 {
   font-size: 88%;
-  font-weight: 900;
 }
 
 h5 {
   font-size: 77%;
-  font-weight: 900;
 }
 
 h6 {
   font-size: 66%;
-  font-weight: 900;
 }
 
 p {
