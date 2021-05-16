@@ -1,11 +1,12 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  border: 0;
+  border: solid red 1;
   padding: 0;
   font-family: 'Raleway', sans-serif;
   font-size: 1em;
   color: #000000;
+  border-radius: 50% 20% / 10% 40%;
 }
 
 html {
