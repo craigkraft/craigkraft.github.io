@@ -5,7 +5,9 @@ title: Home
 
 # Hi There! This is a heading lvl one
 
-This is your homepage or index. Fill it with valueless content and portals to invaluable resources. We're using Comfortaa and Oxygen Mono for the fonts, redundancies would be sans-serif and monospace. We just need a nice handwritten font.
+This is your homepage or index. Fill it with valueless content and portals to invaluable resources. We're using Mali, Robot Mono, and Vollkorn; redundancies would be hand-written, monospace, and serif. Line-height set at 1.88 for main body paragraph style.
+
+We want our headers to be able to speak for themselves, yet keep them close to their related sister text elements.
 
 ## And a heading lvl two
 
@@ -25,7 +27,7 @@ The most important thing about filler text, is that you allow for paragraphs/sen
 
 Headings one through six decrease in descending order, while headings four through six remain similar sizes for future styling.
 
-I picked a monospace font for the headings. It only comes in one weight, 400, minimal.
+We're using monospace Robot Mono for body text.
 
 ###### The final heading of all time
 
