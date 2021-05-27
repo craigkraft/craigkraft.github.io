@@ -29,6 +29,14 @@
   color: #000000;
 }
 
+p {
+  font-family: 'Oxygen Mono', monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Comfortaa', sans-serif;
+}
+
 html {
   background: linear-gradient(45deg, #495F8C, #F25C05);
 }
@@ -93,7 +101,6 @@ a:active {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Oxygen Mono', monospace;
   line-height: 1;
 }
 
