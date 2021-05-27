@@ -41,12 +41,16 @@ body {
   background-color: #ffffff;
 }
 
-p {
+p, .navprime ul li {
   font-family: 'Roboto Mono', monospace;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Vollkorn', serif;
+}
+
+.sctnspn span {
+  font-family: 'Mali', cursive;
 }
 
 .sctnspn {
@@ -56,8 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sctnspn span{
-  color: #cccccc;
-  font-family: 'Mali', cursive;
+  color: #252825;
 }
 
 main {
@@ -75,7 +78,6 @@ main {
   display: inline-block;
   margin: 0.33rem;
   padding: 0.22rem;
-  font-family: 'Vollkorn', serif;
 }
 
 a {
