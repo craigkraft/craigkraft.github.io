@@ -25,8 +25,20 @@
   border: 0;
   padding: 0;
   font-family: 'Comfortaa', sans-serif;
-  font-size: 1em;
   color: #000000;
+}
+
+html {
+  background: linear-gradient(45deg, #495F8C, #F25C05);
+  font-size: 1em;
+}
+
+body {
+  margin: 0 auto;
+  min-width: 33rem;
+  max-width: 63rem;
+  min-height: 111vh;
+  background-color: #ffffff;
 }
 
 p {
@@ -37,20 +49,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Comfortaa', sans-serif;
 }
 
-html {
-  background: linear-gradient(45deg, #495F8C, #F25C05);
-}
-
-body {
-  margin: 0 auto;
-  min-width: 33rem;
-  max-width: 63rem;
-  min-height: 111vh;
-  background-color: #FFFFFF;
-}
-
 .sctnspn {
   padding: 1rem;
+  text-align: center;
+  font-size: 3rem;
 }
 
 main {
