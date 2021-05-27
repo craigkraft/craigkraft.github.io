@@ -23,7 +23,6 @@
   box-sizing: border-box;
   margin: 0;
   border: 0;
-/**  border: 0.05rem solid orange; **/
   padding: 0;
   font-family: 'Comfortaa', sans-serif;
   font-size: 1em;
@@ -43,8 +42,7 @@ body {
 }
 
 #mainheader {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding: 1rem;
 }
 
 main {
