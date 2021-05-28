@@ -3,11 +3,9 @@ layout: default
 title: Pi Day on The Trail
 ---
 
-# Pi Day on The Trail
+# Pi Day on The Trail: Mica Mountain vs. Skinners
 
 This is a review of the "Skinners" minimalist shoe / outdoor slipper tested in a desert environment.
-
-## Mica Mountain vs. Skinners
 
 Mica picnic view area is a nice ramada to start your adventure. Tucked away in the desert you're getting into lots of dry sand, thorny cactus needles, rocks and pebbles of all kinds.
 
