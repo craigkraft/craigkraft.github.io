@@ -41,61 +41,17 @@ body {
   background-color: #ffffff;
 }
 
-p {
+p, .navprime, .navprime ul, .navprime ul li, .navprime ul li a, {
   font-family: 'Roboto Mono', monospace;
 }
 
-.navprime, .navprime ul, .navprime ul li, .navprime ul li a,
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Vollkorn', serif;
-}
-
-.sctnspn span {
-  font-family: 'Mali', cursive;
-}
-
-.sctnspn {
-  background-color: #F2E205;
-  padding: 1rem;
-  text-align: left;
-}
-
-.sctnspn span{
-  font-size: 2.55rem;
-  font-weight: 200;
-  color: #F25C05;
-  letter-spacing: 0.93rem;
-  padding: 1rem;
 }
 
 main {
   padding-left: 2rem;
   padding-right: 2rem;
-}
-
-.navprime {
-  background: rgb(73,95,140);
-  background: linear-gradient(90deg, rgba(73,95,140,1) 0%, rgba(242,226,5,1) 25%, rgba(242,183,5,1) 50%, rgba(242,159,5,1) 75%, rgba(242,92,5,1) 100%);
-}
-
-.navprime ul {
-
-  list-style: none inside;
-  padding: 1rem;
-  font-weight: 900; 
-}
-
-.navprime ul li {
-  display: inline-block;
-  margin: 0.33rem;
-  padding: 0.22rem;
-  font-size: 1.33rem;
-}
-
-.navprime ul li a {
-  font-size: 1.33rem;
-  text-decoration-line: none;
-  color: #000000;
 }
 
 a {
@@ -173,6 +129,49 @@ p {
   font-weight: 200;
 }
 
+.sctnspn span {
+  font-family: 'Mali', cursive;
+}
+
+.sctnspn {
+  background-color: #F2E205;
+  padding: 1rem;
+  text-align: left;
+}
+
+.sctnspn span{
+  font-size: 2.55rem;
+  font-weight: 200;
+  color: #F25C05;
+  letter-spacing: 0.93rem;
+  padding: 1rem;
+}
+
+.navprime {
+  background: rgb(73,95,140);
+  background: linear-gradient(90deg, rgba(73,95,140,1) 0%, rgba(242,226,5,1) 25%, rgba(242,183,5,1) 50%, rgba(242,159,5,1) 75%, rgba(242,92,5,1) 100%);
+}
+
+.navprime ul {
+  list-style: none inside;
+  padding: 1rem;
+  font-weight: 900; 
+}
+
+.navprime ul li {
+  display: inline-block;
+  margin: 0.33rem;
+  padding: 0.22rem;
+  font-size: 1.33rem;
+}
+
+.navprime ul li a {
+  font-size: 1.33rem;
+  text-decoration-line: none;
+  color: #000000;
+}
+
+
 .recentposts {
   padding: 1rem;
 }
@@ -189,4 +188,3 @@ p {
   font-weight: 400;
   padding: 0 0 0 1rem;
 }
-
