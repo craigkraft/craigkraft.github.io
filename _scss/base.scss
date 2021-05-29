@@ -42,32 +42,18 @@ main {
 }
 
 a {
-  font-weight: 600;
   outline: none;
   text-decoration-line: underline;
   text-decoration-style: dotted;
   text-underline-offset: 0.11em;
 }
 
-a:link {
-  color: #F27B50;
+a:link, a:visited {
+  color: #0049A6;
 }
 
-a:visited {
-  color: #F27B50;
-}
-
-a:focus {
-  color: #D92B2B;
-}
-
-a:hover {
-  color: #D92B2B;
-}
-
-a:active {
-  color: #F8FFE0;
-  background-color: #F27B50;
+a:focus, a:hover, a:active{
+  color: #0069F2;
 }
 
 h1, h2, h3, h4, h5, h6 {
