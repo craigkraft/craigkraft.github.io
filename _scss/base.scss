@@ -1,23 +1,12 @@
-/* Color Theme Swatches in Hex */
-.sms-hex { color: #495F8C; }
-.sms-hex { color: #F2E205; }
-.sms-hex { color: #F2B705; }
-.sms-hex { color: #F29F05; }
-.sms-hex { color: #F25C05; }
+/* Color Themes
 
-/* Color Theme Swatches in RGBA */
-.Smoky-mountain-sunset-1-rgba { color: rgba(72, 95, 140, 1); }
-.Smoky-mountain-sunset-2-rgba { color: rgba(242, 226, 4, 1); }
-.Smoky-mountain-sunset-3-rgba { color: rgba(242, 182, 4, 1); }
-.Smoky-mountain-sunset-4-rgba { color: rgba(242, 159, 4, 1); }
-.Smoky-mountain-sunset-5-rgba { color: rgba(242, 91, 4, 1); }
+#CCCD43 lichen
+#F2AE2E cantaloupe
+#F2620F orange
+#D92E1E blood orange
+#262626 eggplant
 
-/* Color Theme Swatches in HSLA */
-.Smoky-mountain-sunset-1-hsla { color: hsla(219, 31, 41, 1); }
-.Smoky-mountain-sunset-2-hsla { color: hsla(56, 96, 48, 1); }
-.Smoky-mountain-sunset-3-hsla { color: hsla(45, 96, 48, 1); }
-.Smoky-mountain-sunset-4-hsla { color: hsla(39, 96, 48, 1); }
-.Smoky-mountain-sunset-5-hsla { color: hsla(22, 96, 48, 1); }
+*/
 
 * {
   box-sizing: border-box;
@@ -29,7 +18,7 @@
 }
 
 html {
-  background: linear-gradient(45deg, #495F8C, #F25C05);
+  background-color: #FFF;
   font-size: 1em;
 }
 
@@ -37,7 +26,6 @@ body {
   margin: 0 auto;
   max-width: 63rem;
   min-height: 111vh;
-  background-color: #ffffff;
 }
 
 p, .navprime, .navprime ul, .navprime ul li, .navprime ul li a, {
@@ -54,6 +42,7 @@ main {
 }
 
 a {
+  font-weight: 600;
   outline: none;
   text-decoration-line: underline;
   text-decoration-style: dotted;
