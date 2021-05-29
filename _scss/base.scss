@@ -169,6 +169,10 @@ p {
 }
 
 .recentposts ul li::before {
+  content: "- ";
+}
+
+.recentposts ul li:hover::before {
   content: "+ ";
 }
 
