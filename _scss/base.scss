@@ -154,10 +154,16 @@ p {
 
 
 .recentposts {
-  padding: 1rem;
+  font-family: 'Robot Mono' monospace;
+  padding: 0.88rem 2rem;
+}
+
+.recentposts h1{
+  font-weight: 700;
 }
 
 .recentposts ul {
+  font-weight: 300;
   list-style: none inside;
 }
 
