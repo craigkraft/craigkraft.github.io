@@ -45,7 +45,7 @@ a {
   outline: none;
   text-decoration-line: underline;
   text-decoration-style: dotted;
-  text-underline-offset: 0.11em;
+  text-underline-offset: 0.11rem;
 }
 
 a:link, a:visited {
@@ -57,7 +57,7 @@ a:focus, a:hover, a:active{
 }
 
 h1, h2, h3, h4, h5, h6 {
-  padding-top: 1em;
+  padding-top: 1rem;
   color: #262626;
   line-height: 1.33;
 }
@@ -146,6 +146,7 @@ p {
 
 .recentposts h1{
   font-family: 'Roboto Mono', monospace;
+  font-size: 1.33rem;
   font-weight: 700;
 }
 
