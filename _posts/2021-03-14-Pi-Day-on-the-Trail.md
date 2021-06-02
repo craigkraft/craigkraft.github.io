@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Pi Day on The Trail
+title: Pi Day on the Trail
 ---
 
-# Pi Day on The Trail: Mica Mountain vs. Skinners
+## Pi Day on The Trail: Mica Mountain vs. Skinners
 
 This is a review of the "Skinners" minimalist shoe / outdoor slipper tested in a desert environment.
 
