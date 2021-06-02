@@ -1,15 +1,17 @@
 ---
 ---
+
 <!DOCTYLE html>
 <html>
 {% include head.html %}
-<body>
+  <body>
 {% include header.html %}
 {% include navigation.html %}
-<main>
-<time datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-{{ content }}
-</main>
+    <main>
+      <h1>{{ page.title }}</h1>
+      <time datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      {{ content }}
+    </main>
 {% include footer.html %}
-</body>
+  </body>
 </html>
