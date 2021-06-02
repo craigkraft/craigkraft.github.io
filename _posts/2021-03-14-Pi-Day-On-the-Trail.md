@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Pi Day on The Trail
 ---
 
