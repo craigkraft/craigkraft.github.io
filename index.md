@@ -15,6 +15,8 @@ Just testing some things. Testing, texting, one two three. More filler text here
 
 ### Heading of the third kind
 
+![photo test flowers](/assets/IMG_0577.JPG)
+
 A new paragraph can be short; like a few phrases.
 
 Others can be just slightly a little longer, but barely.
