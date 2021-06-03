@@ -15,7 +15,7 @@ Just testing some things. Testing, texting, one two three. More filler text here
 
 ### Heading of the third kind
 
-![photo test flowers](/assets/IMG_0577.JPG)
+![photo test flowers](/assets/flowertest.svg)
 
 A new paragraph can be short; like a few phrases.
 
