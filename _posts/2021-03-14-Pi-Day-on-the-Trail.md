@@ -3,6 +3,8 @@ layout: post
 title: Pi Day on the Trail
 ---
 
+![hurt saguaro](https://photos.app.goo.gl/2HnZHj7Q12TKifyLA)
+
 ## Mica Mountain vs. Skinners
 
 This is a review of the "Skinners" minimalist shoe / outdoor slipper tested in a desert environment.
