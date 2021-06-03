@@ -3,15 +3,13 @@ layout: post
 title: Pi Day on the Trail
 ---
 
-![hurt saguaro](https://photos.app.goo.gl/2HnZHj7Q12TKifyLA)
+## Shoe Review: Mica Mountain vs. Skinners
 
-## Mica Mountain vs. Skinners
+Kickstarter is a weakness for me. I see an interesting take on minimalust footwear for the outdoors, possibly in my size, and I have to pounce.
 
-This is a review of the "Skinners" minimalist shoe / outdoor slipper tested in a desert environment.
+Fast-forward a bit and we've arrived at Mica picnic view area, a nice ramada to start our adventure. Tucked away in the desert we got into lots of dry sand, thorny cactus needles, rocks and pebbles of all kinds. Dust and dried saguaro ribs.
 
-Mica picnic view area is a nice ramada to start your adventure. Tucked away in the desert you're getting into lots of dry sand, thorny cactus needles, rocks and pebbles of all kinds.
-
-I was wearing DarnTough 1/4 hiker socks with these shoes and it was a little cramped. There is a small insert that comes with the Skinners and this was also present. I should have guessed that the fit was going to be tight though -  I had to get the largest size they offered, and that was a size below what I would really want. Big feet problems. I'll probably wear them sans-insert next trek.
+Wearing DarnTough 1/4 hiker socks with these shoes felt a little cramped. The small insert made it even more so. I should have guessed that the fit was going to be tight though -  I had to get the largest size they offered, and that was a size below what I would really want. Big feet problems. I'll probably wear them sans-insert next trek.
 
 You feel guilty wearing these "slippers" on the trail because they are so comfortable. They allow for lots of stretch in any direction and so flex with your movement. The texture of the sole is grippy and substantial enough to prevent any small thorns / needles from poking in. They feel warm with the rubberized coating acting as a good insulator. The mesh uppers do ventilate but in 80 F. sunny weather, they are noticeably warm. I didn't have to dig out many pebbles; might have stopped once, can't recall; was having too much fun being distracted by the desert landscape of saguaros.
 
