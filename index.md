@@ -14,6 +14,7 @@ We want our headers to be able to speak for themselves, yet keep them close to t
 Just testing some things. Testing, texting, one two three. More filler text here, and some more. This is a paragraph that resides in main content area. Main content as in a page's purpose is fulfilled via the content in this main section. Below is an image.
 
 ![image test oleander flowers](/assets/oleander-flowers.jpg)
+
 ### Heading of the third kind
 
 A new paragraph can be short; like a few phrases.
