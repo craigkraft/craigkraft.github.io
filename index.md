@@ -29,7 +29,7 @@ The most important thing about filler text, is that you allow for paragraphs/sen
 
 Headings one through six decrease in descending order, while headings four through six remain similar sizes for future styling.
 
-![photo test flowers only 4.9kb](https://www.dropbox.com/s/1tn6ayt4h1n17s6/oleander-flowers.jpg?dl=0)
+![photo test flowers only 4.9kb](https://www.dropbox.com/s/1tn6ayt4h1n17s6/oleander-flowers.jpg)
 
 We're using monospace Robot Mono for body text.
 
