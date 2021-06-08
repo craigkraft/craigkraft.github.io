@@ -15,8 +15,6 @@ Just testing some things. Testing, texting, one two three. More filler text here
 
 ### Heading of the third kind
 
-![photo test flowers 366kb](/assets/flowertest.svg)
-
 A new paragraph can be short; like a few phrases.
 
 Others can be just slightly a little longer, but barely.
@@ -28,8 +26,6 @@ The most important thing about filler text, is that you allow for paragraphs/sen
 ##### Almost the last heading
 
 Headings one through six decrease in descending order, while headings four through six remain similar sizes for future styling.
-
-![photo test flowers only 4.9kb](https://www.dropbox.com/s/1tn6ayt4h1n17s6/oleander-flowers.jpg?dl=0)
 
 We're using monospace Robot Mono for body text.
 
